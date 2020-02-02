@@ -1,0 +1,39 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using CaRentPlusIdentity.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+
+    <ul class="nav navbar-nav">
+        <li><a asp-area="" asp-controller="Car" asp-action="List">Samochody</a></li>
+        <li><a asp-area="" asp-controller="CarMark" asp-action="List">Nasze marki</a></li>
+        <li><a asp-area="" asp-controller="Customer" asp-action="List">Klienci</a></li>
+        <li><a asp-area="" asp-controller="Lend" asp-action="List">Wypożycz</a></li>
+        <li><a asp-area="" asp-controller="Return" asp-action="List">Zwróć</a></li>
+
+    </ul>
+    <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" id="logoutForm" class="navbar-right">
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a asp-area="" asp-controller="Manage" asp-action="Index" title="Manage">Witaj: @UserManager.GetUserName(User)!</a>
+
+            </li>
+            <li>
+                <a asp-area="" asp-controller="Account" asp-action="Register">Zarejestruj konto</a>
+            </li>
+            <li>
+                <button type="submit" class="btn btn-link navbar-btn navbar-link">Wyloguj</button>
+            </li>
+        </ul>
+    </form>
+}
+else
+{
+
+    <ul class="nav navbar-nav navbar-right">
+        <li><a asp-area="" asp-controller="Account" asp-action="Login">Zaloguj</a></li>
+    </ul>
+}

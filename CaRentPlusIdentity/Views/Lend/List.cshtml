@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Car>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nazwa</th>
+            <th>Marka</th>
+            <th>Wypożycz</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Car car in Model)
+        {
+            <tr>
+                <td>@car.CarId</td>
+                <td>@car.CarModel</td>
+                <td>@car.CarMark.Name</td>
+                <td><a class="btn btn-success" asp-area="" asp-controller="Lend" asp-action="LendCar" asp-route-carId="@car.CarId">Wypożycz</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

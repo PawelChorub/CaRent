@@ -1,0 +1,10 @@
+﻿@model IEnumerable<CarMark>
+
+<a class="btn btn-success mt-5" style="margin: 10px" asp-controller="CarMark" asp-action="Create">Utwórz nową markę</a>
+
+<div class="row">
+    @foreach (var carMark in Model)
+    {
+        @Html.Partial("CarMarkPartial", carMark)
+    }
+</div>

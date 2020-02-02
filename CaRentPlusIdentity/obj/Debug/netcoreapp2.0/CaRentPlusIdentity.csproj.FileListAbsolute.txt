@@ -1,0 +1,120 @@
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — Identity\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — Identity — kopia\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — IdentityWork!\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 — kopia bezp\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\source\repos\CaRent — IdentityOK 10-06-2019 work\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł\Desktop\code\P__F\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Projects\C#\CaRent — stabilna 19-06-2019 release\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł.000\source\repos\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.deps.json
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.json
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.runtimeconfig.dev.json
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\bin\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csprojAssemblyReference.cache
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfoInputs.cache
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.AssemblyInfo.cs
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.dll
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\CaRent\CaRentPlusIdentity\obj\Debug\netcoreapp2.0\CaRentPlusIdentity.pdb

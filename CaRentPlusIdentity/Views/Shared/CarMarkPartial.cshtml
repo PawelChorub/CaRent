@@ -1,0 +1,24 @@
+﻿@model CarMark
+
+<div class="col-sm-4 col-lg-4 col-md-4">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <p>@Model.Name</p>
+        </div>
+        <div class="panel-body">
+            <h2>Liczba samochodów: @Model.Cars.Count</h2>
+            <div class="btn-group">
+                @if (Model.Cars?.Count == 0)
+                {
+                    <a class="btn btn-default" asp-area="">Wyświetl listę samochodów</a>
+                }
+                else
+                {
+                    <a class="btn btn-info" asp-area="" asp-controller="Car" asp-action="List" asp-route-carMarkId="@Model.CarMarkId">Wyświetl listę samochodów</a>
+                }
+                <a class="btn btn-info" asp-area="" asp-controller="CarMark" asp-action="Update" asp-route-id="@Model.CarMarkId">Edytuj</a>
+                <a class="btn btn-danger" asp-area="" asp-controller="CarMark" asp-action="Delete" asp-route-id="@Model.CarMarkId">Usuń</a>
+            </div>
+        </div>
+    </div>
+</div>

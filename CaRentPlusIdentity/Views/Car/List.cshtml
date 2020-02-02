@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Car>
+
+<a class="btn btn-success mt-5" style="margin: 10px" asp-controller="Car" asp-action="Create">Utwórz nowy samochód</a>
+
+<table class="table table-striped table-hover ">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nazwa</th>
+            <th>Marka</th>
+            <th>Edytuj samochód</th>
+            <th>Usuń samochód</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Car car in Model)
+        {
+            <tr>
+                <td>@car.CarId</td>
+                <td>@car.CarModel</td>
+                <td>@car.CarMark.Name</td>
+                <td><a class="btn btn-info" asp-area="" asp-controller="Car" asp-action="Update" asp-route-id="@car.CarId">Edytuj</a></td>
+                <td><a class="btn btn-danger" asp-area="" asp-controller="Car" asp-action="Delete" asp-route-id="@car.CarId" asp-route-authorId="@ViewBag.MarkId">Usuń</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

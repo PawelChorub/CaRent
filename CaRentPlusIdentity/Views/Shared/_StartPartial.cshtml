@@ -1,0 +1,51 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+
+@model HomeViewModel
+@{
+    int availableCars = Model.CarCount - Model.LendCarCount;
+}
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <h3>System zarządzania wypożyczalnią samochodową</h3>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    Klienci
+                </div>
+                <div class="panel-body">
+                    Aktualnie jest zarejestrowanych @Model.CustomerCount klientów
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    Marki
+                </div>
+                <div class="panel-body">
+                    Aktualnie posiadamy @Model.CarMarkCount marek
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    Pojazdy
+                </div>
+                <div class="panel-body">
+                    Aktualnie dostępnych jest @availableCars modeli, spośród posiadanych @Model.CarCount pojazdów
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+        <h1>Witamy w systemie CaRent!</h1>
+        <br />
+        <h2>Zaloguj się, aby kontynuować.</h2>
+}
